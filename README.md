@@ -13,6 +13,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Alliance Auth / allianceauth-bbs](https://gitlab.com/allianceauth/allianceauth-bbs) - A simple forum for Allianceauth
 - [Basraah / allianceauth-idp](https://gitlab.com/basraah/allianceauth-idp) - SAML 2.0 Identity Provider for Alliance Auth
 - [Basraah / standingsrequests](https://gitlab.com/basraah/standingsrequests) - Alliance Auth compatible standings tool module for requesting alt character standings and checking API key registration.
+- [colcrunch / aa-moonstuff](https://gitlab.com/colcrunch/moonstuff) - A plugin for publishing moon extractions, and keeping track of moon scan data.
 
 
 ## Services
