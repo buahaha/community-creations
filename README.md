@@ -24,3 +24,4 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 ## Deployment and Administration
 - [antt1995 / AllianceAuth-Docker](https://gitlab.com/antt1995/allianceauth-docker) - Docker-Compose stack for Alliance Auth
 - [antt1995 / AllianceAuth-Docker-Image](https://gitlab.com/antt1995/allianceauth-docker-image) - Docker image for AllianceAuth
+- [AaronKable / AllianceAuth-Celery-Analytics](https://github.com/pvyParts/allianceauth-celeryanalytics) - Celery task output loging to database for easy viewing and monitoring
