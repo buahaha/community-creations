@@ -17,6 +17,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-freight](https://gitlab.com/ErikKalkoken/aa-freight.git) - A plugin for running a central freight service for an alliance.
 - [Erik Kalkoken / aa-dashboard-alerts](https://gitlab.com/ErikKalkoken/aa-dashboard-alerts) - Adds an alert message to the dashboard to notify users about their current open items like pending group requests and unread notifications.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
+- [Erik Kalkoken / aa-structures](https://gitlab.com/ErikKalkoken/aa-structures) - A plugin for monitoring alliance structures incl. a structure browser and structure notifications on Discord.
 
 ## Services
 
@@ -27,3 +28,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [antt1995 / AllianceAuth-Docker](https://gitlab.com/antt1995/allianceauth-docker) - Docker-Compose stack for Alliance Auth
 - [antt1995 / AllianceAuth-Docker-Image](https://gitlab.com/antt1995/allianceauth-docker-image) - Docker image for AllianceAuth
 - [AaronKable / AllianceAuth-Celery-Analytics](https://github.com/pvyParts/allianceauth-celeryanalytics) - Celery task output logging to database for easy viewing and monitoring
+
+## Developer resources
+
+- [Erik Kalkoken / allianceauth-example-plugin](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin) - Example plugin app that can be used as starting point / template for developing new plugin apps
