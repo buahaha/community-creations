@@ -7,6 +7,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Plugins](#plugins)
 - [Services](#services)
 - [Deployment and Administration](#deployment-and-administration)
+- [Developer resources](#developer-resources)
 
 ## Plugins
 
@@ -32,3 +33,4 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 ## Developer resources
 
 - [Erik Kalkoken / allianceauth-example-plugin](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin) - Example plugin app that can be used as starting point / template for developing new plugin apps
+- [Erik Kalkoken / a-dev-setup-wsl-vsc-v2.md](https://gist.github.com/ErikKalkoken/6fbcc8f27a0840836a811760d8c47216) - Guide on how to setup an Alliance Auth development environment on Windows 10 with WSL and Visual Studio Code
