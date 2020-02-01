@@ -19,6 +19,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-dashboard-alerts](https://gitlab.com/ErikKalkoken/aa-dashboard-alerts) - Adds an alert message to the dashboard to notify users about their current open items like pending group requests and unread notifications.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
 - [Erik Kalkoken / aa-structures](https://gitlab.com/ErikKalkoken/aa-structures) - A plugin for monitoring alliance structures incl. a structure browser and structure notifications on Discord.
+- [AaronKable / aa-corpstats-two](https://github.com/pvyParts/allianceauth-corpstats-two) - Extended Corpstats module for AllianceAuth with speed and functionality in mind.
 
 ## Services
 
