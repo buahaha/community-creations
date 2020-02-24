@@ -24,6 +24,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 ## Services
 
 - [Alliance Auth / mumble-authenticator](https://gitlab.com/allianceauth/mumble-authenticator) - Authenticator script for the Alliance Auth Mumble integration
+- [AaronKable / allianceauth-mumbletemps](https://github.com/pvyParts/allianceauth-mumble-temp) - Enables Templink access to Mumble for non authed characters
 
 ## Deployment and Administration
 
