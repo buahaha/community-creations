@@ -32,6 +32,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / AllianceAuth-Celery-Analytics](https://github.com/pvyParts/allianceauth-celeryanalytics) - Celery task output logging to database for easy viewing and monitoring
 - [MillerUK / AllianceAuth-Docker](https://github.com/milleruk/alliance_auth_docker) -  Docker-Compose Stack - Including Traefik Proxy
 - [MillerUK/ AllianceAuth-Docker-Image](https://hub.docker.com/r/milleruk/allianceauth) - Docker image for AllianceAuth
+- [mckernanin / Alliance Auth Kubernetes](https://github.com/mckernanin/alliance-auth-kubernetes) - Tutorial on setting up AA on a kubernetes cluster
 
 
 ## Developer resources
