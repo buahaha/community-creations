@@ -21,6 +21,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-structures](https://gitlab.com/ErikKalkoken/aa-structures) - A plugin for monitoring alliance structures incl. a structure browser and structure notifications on Discord.
 - [AaronKable / aa-corpstats-two](https://github.com/pvyParts/allianceauth-corpstats-two) - Extended Corpstats module for AllianceAuth with speed and functionality in mind.
 - [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
+- [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
 
 ## Services
 
