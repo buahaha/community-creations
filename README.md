@@ -20,8 +20,9 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
 - [Erik Kalkoken / aa-structures](https://gitlab.com/ErikKalkoken/aa-structures) - A plugin for monitoring alliance structures incl. a structure browser and structure notifications on Discord.
 - [AaronKable / aa-corpstats-two](https://github.com/pvyParts/allianceauth-corpstats-two) - Extended Corpstats module for AllianceAuth with speed and functionality in mind.
-- [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
 - [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
+- [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
+- [ppfeufer / aa-discord-ping-formatter](https://github.com/ppfeufer/aa-discord-ping-formatter) - App for formatting fleet pings for Discord in Alliance Auth.
 
 ## Services
 
