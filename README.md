@@ -23,6 +23,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
 - [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
 - [ppfeufer / aa-discord-ping-formatter](https://github.com/ppfeufer/aa-discord-ping-formatter) - App for formatting fleet pings for Discord in Alliance Auth.
+- [mckernanin / aa-graphql](https://github.com/mckernanin/aa-graphql) - GraphQL API For Alliance Auth
 
 ## Services
 
