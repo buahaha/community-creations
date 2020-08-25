@@ -26,6 +26,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
 - [ppfeufer / aa-discord-ping-formatter](https://github.com/ppfeufer/aa-discord-ping-formatter) - App for formatting fleet pings for Discord in Alliance Auth.
 - [mckernanin / aa-graphql](https://github.com/mckernanin/aa-graphql) - GraphQL API For Alliance Auth
+- [Evictus / ImicusFAT](https://gitlab.com/evictus.iou/allianceauth-imicusfat) - An Improved FAT/PAP System for Alliance Auth.
 
 ## Services
 
