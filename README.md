@@ -27,6 +27,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [ppfeufer / aa-discord-ping-formatter](https://github.com/ppfeufer/aa-discord-ping-formatter) - App for formatting fleet pings for Discord in Alliance Auth.
 - [mckernanin / aa-graphql](https://github.com/mckernanin/aa-graphql) - GraphQL API For Alliance Auth
 - [Evictus / ImicusFAT](https://gitlab.com/evictus.iou/allianceauth-imicusfat) - An Improved FAT/PAP System for Alliance Auth.
+- [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
 
 ## Services
 
