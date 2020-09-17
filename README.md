@@ -24,7 +24,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / aa-corpstats-two](https://github.com/pvyParts/allianceauth-corpstats-two) - Extended Corpstats module for AllianceAuth with speed and functionality in mind.
 - [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
 - [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
-- [ppfeufer / aa-discord-ping-formatter](https://github.com/ppfeufer/aa-discord-ping-formatter) - App for formatting fleet pings for Discord in Alliance Auth.
+- [ppfeufer / aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings) - App that can format your fleet pings and also ping for you to Discord and Slack.
 - [mckernanin / aa-graphql](https://github.com/mckernanin/aa-graphql) - GraphQL API For Alliance Auth
 - [Evictus / ImicusFAT](https://gitlab.com/evictus.iou/allianceauth-imicusfat) - An Improved FAT/PAP System for Alliance Auth.
 - [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
