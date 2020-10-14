@@ -30,6 +30,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [mckernanin / aa-graphql](https://github.com/mckernanin/aa-graphql) - GraphQL API For Alliance Auth
 - [Evictus / ImicusFAT](https://gitlab.com/evictus.iou/allianceauth-imicusfat) - An Improved FAT/PAP System for Alliance Auth.
 - [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
+- [AaronKable / allianceauth-group-assigner](https://github.com/pvyParts/allianceauth-group-assigner) - Admin app to add groups to users when they change States.
 
 ## Services
 
