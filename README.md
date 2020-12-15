@@ -19,6 +19,8 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-freight](https://gitlab.com/ErikKalkoken/aa-freight.git) - A plugin for running a central freight service for an alliance.
 - [Erik Kalkoken / aa-dashboard-alerts](https://gitlab.com/ErikKalkoken/aa-dashboard-alerts) - Adds an alert message to the dashboard to notify users about their current open items like pending group requests and unread notifications.
 - [Erik Kalkoken / aa-killtracker](https://gitlab.com/ErikKalkoken/aa-killtracker) - An app for running killmail trackers with Alliance Auth and Discord
+- [Erik Kalkoken / aa-memberaudit](https://gitlab.com/ErikKalkoken/aa-memberaudit) - An app that provides full access to Eve characters and related reports for auditing, vetting and monitoring.
+- [Erik Kalkoken / aa-package-monitor](https://gitlab.com/ErikKalkoken/aa-package-monitor) - An app that helps keep track of installed packages and outstanding updates for Alliance Auth.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
 - [Erik Kalkoken / aa-structuretimers](https://gitlab.com/ErikKalkoken/aa-structuretimers) - An app for keeping track of Eve Online structure timers with Alliance Auth and Discord
 - [Erik Kalkoken / aa-structures](https://gitlab.com/ErikKalkoken/aa-structures) - A plugin for monitoring alliance structures incl. a structure browser and structure notifications on Discord.
@@ -38,7 +40,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 
 - [Alliance Auth / mumble-authenticator](https://gitlab.com/allianceauth/mumble-authenticator) - Authenticator script for the Alliance Auth Mumble integration
 - [AaronKable / allianceauth-mumbletemps](https://github.com/pvyParts/allianceauth-mumble-temp) - Enables Templink access to Mumble for non authed characters
-- [AaronKable / allianceauth-wiki-js](https://github.com/pvyParts/allianceauth-wiki-js) - Allianceauth service module for Wiki.js 
+- [AaronKable / allianceauth-wiki-js](https://github.com/pvyParts/allianceauth-wiki-js) - Allianceauth service module for Wiki.js
 
 ## Deployment and Administration
 
