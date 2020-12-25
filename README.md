@@ -32,7 +32,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Evictus / ImicusFAT](https://gitlab.com/evictus.iou/allianceauth-imicusfat) - An Improved FAT/PAP System for Alliance Auth.
 - [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
 - [AaronKable / allianceauth-group-assigner](https://github.com/pvyParts/allianceauth-group-assigner) - Admin app to add groups to users when they change States.
-- [rcmurphy / aa-blueprints](https://gitlab.com/rcmurphy/aa-blueprints) - An app that provides a list of corporate blueprints for reference by members.
+- [Eclipse Expeditions / aa-blueprints](https://gitlab.com/eclipse-expeditions/aa-blueprints) - An app that provides a list of corporate blueprints for reference by members.
 
 ## Services
 
