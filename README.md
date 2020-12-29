@@ -35,6 +35,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
 - [AaronKable / allianceauth-group-assigner](https://github.com/pvyParts/allianceauth-group-assigner) - Admin app to add groups to users when they change States.
 - [Eclipse Expeditions / aa-blueprints](https://gitlab.com/eclipse-expeditions/aa-blueprints) - An app that provides a list of corporate blueprints for reference by members.
+- [pksunakra / aa-buybacks](https://gitlab.com/pksunkara/aa-buybacks) - An app that allows corps to manage their buyback programs and also allows their members to use the above programs.
 
 ## Services
 
