@@ -20,6 +20,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-dashboard-alerts](https://gitlab.com/ErikKalkoken/aa-dashboard-alerts) - Adds an alert message to the dashboard to notify users about their current open items like pending group requests and unread notifications.
 - [Erik Kalkoken / aa-killtracker](https://gitlab.com/ErikKalkoken/aa-killtracker) - An app for running killmail trackers with Alliance Auth and Discord
 - [Erik Kalkoken / aa-memberaudit](https://gitlab.com/ErikKalkoken/aa-memberaudit) - An app that provides full access to Eve characters and related reports for auditing, vetting and monitoring.
+  - [Eclipse Expeditions / aa-memberaudit-securegroups](https://gitlab.com/eclipse-expeditions/aa-memberaudit-securegroups) - Integration with [Secure Groups](https://github.com/pvyParts/allianceauth-secure-groups) for automatic group management based on activity, character age, assets, compliance, SP, or skill sets.
 - [Erik Kalkoken / aa-package-monitor](https://gitlab.com/ErikKalkoken/aa-package-monitor) - An app that helps keep track of installed packages and outstanding updates for Alliance Auth.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
 - [Erik Kalkoken / aa-structuretimers](https://gitlab.com/ErikKalkoken/aa-structuretimers) - An app for keeping track of Eve Online structure timers with Alliance Auth and Discord
@@ -37,6 +38,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Ariel Rin / aa-gdpr](https://gitlab.com/soratidus999/aa-gdpr) - A Collection of resources to help Alliance Auth installs meet GDPR legislations.
 - [Ariel Rin / aa-relays](https://gitlab.com/soratidus999/aa-relays) - For forwarding, collating and filtering of messages from various chat services to defined outputs including Database logging
 - [Eclipse Expeditions / aa-blueprints](https://gitlab.com/eclipse-expeditions/aa-blueprints) - An app that provides a list of corporate blueprints for reference by members.
+- [Eclipse Expeditions / aa-inactivity](https://gitlab.com/eclipse-expeditions/aa-inactivity) - An app that allows corps to track member activity as well as leave of absence requests.
 - [pksunakra / aa-buybacks](https://gitlab.com/pksunkara/aa-buybacks) - An app that allows corps to manage their buyback programs and also allows their members to use the above programs.
 
 ## Services
