@@ -40,6 +40,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Eclipse Expeditions / aa-blueprints](https://gitlab.com/eclipse-expeditions/aa-blueprints) - An app that provides a list of corporate blueprints for reference by members.
 - [Eclipse Expeditions / aa-inactivity](https://gitlab.com/eclipse-expeditions/aa-inactivity) - An app that allows corps to track member activity as well as leave of absence requests.
 - [pksunakra / aa-buybacks](https://gitlab.com/pksunkara/aa-buybacks) - An app that allows corps to manage their buyback programs and also allows their members to use the above programs.
+- [EVE LinkNet / aa-opcalendar](https://gitlab.com/paulipa/allianceauth-opcalendar) - A calendar type view for events and fleets. Supports manual events with custom labels, public NPSI fleet imports and importing events over ESI from the ingame calendars.
 
 ## Services
 
