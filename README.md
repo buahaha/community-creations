@@ -28,7 +28,10 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / aa-corpstats-two](https://github.com/pvyParts/allianceauth-corpstats-two) - Extended Corpstats module for AllianceAuth with speed and functionality in mind.
 - [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
 - [AaronKable / allianceauth-group-assigner](https://github.com/pvyParts/allianceauth-group-assigner) - Admin app to add groups to users when they change States.
-- [AaronKable / aa-discordbot](https://github.com/pvyParts/allianceauth-discordbot) - Discordbot for AllianceAuth that can interact with the Django project, as well as send Channel and Direct Messages.
+- [AaronKable / aa-discordbot](https://github.com/pvyParts/allianceauth-discordbot) - Discordbot for AllianceAuth that can interact with the Django project, send Channel and Direct Messages and be extended upon by other Community Apps
+- [AaronKable / allianceauth-secure-groups](https://github.com/pvyParts/allianceauth-secure-groups) - Groups with required or automatic filters, Supports apps for Skills, Item, Activity or any checks you can think of making.
+- [AaronKable / allianceauth-corp-tools](https://github.com/pvyParts/allianceauth-corp-tools) - A minimalistic character/corporation audit, primarily built to underpin allianceauth-secure-groups and other apps.
+- [AaronKable / aa-statistics](https://github.com/pvyParts/aa-statistics) - Periodically gather and update statistics, primarily for use by other modules
 - [ppfeufer / aa-esi-status](https://github.com/ppfeufer/aa-esi-status) - App for Alliance Auth to show the current status of ESI and its end points.
 - [ppfeufer / aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings) - App that can format your fleet pings and also ping for you to Discord and Slack.
 - [ppfeufer / aa-sov-timer](https://github.com/ppfeufer/aa-sov-timer) - Sovereignty campaign overview for Alliance Auth.
