@@ -60,8 +60,8 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [MillerUK/ AllianceAuth-Docker-Image](https://hub.docker.com/r/milleruk/allianceauth) - Docker image for AllianceAuth
 - [mckernanin / Alliance Auth Kubernetes](https://github.com/mckernanin/alliance-auth-kubernetes) - Tutorial on setting up AA on a kubernetes cluster
 
-## Developer resources
+## Development
 
+- [Erik Kalkoken / allianceauth-app-utils](https://gitlab.com/ErikKalkoken/allianceauth-app-utils) - Utility functions and classes for rapid development of Alliance Auth apps
 - [Erik Kalkoken / allianceauth-example-plugin](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin) - Example plugin app that can be used as starting point / template for developing new plugin apps
 - [Erik Kalkoken / django-eveuniverse](https://gitlab.com/ErikKalkoken/django-eveuniverse) - Complete set of Eve Online Universe models for Django with on-demand loading from ESI
-- [Erik Kalkoken / a-dev-setup-wsl-vsc-v2.md](https://gist.github.com/ErikKalkoken/6fbcc8f27a0840836a811760d8c47216) - Guide on how to setup an Alliance Auth development environment on Windows 10 with WSL and Visual Studio Code
