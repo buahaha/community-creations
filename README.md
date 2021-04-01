@@ -16,8 +16,8 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Basraah / standingsrequests](https://gitlab.com/basraah/standingsrequests) - Alliance Auth compatible standings tool module for requesting alt character standings and checking API key registration.
 - [colcrunch / fittings](https://gitlab.com/colcrunch/fittings) - A plugin for managing fittings and doctrines.
 - [colcrunch / aa-moonstuff](https://gitlab.com/colcrunch/aa-moonstuff) - A plugin for publishing moon extractions, and keeping track of moon scan data.
+- [Erik Kalkoken / aa-discordnotify](https://gitlab.com/ErikKalkoken/aa-discordnotify) - This app automatically forwards Alliance Auth notifications to users on Discord.
 - [Erik Kalkoken / aa-freight](https://gitlab.com/ErikKalkoken/aa-freight.git) - A plugin for running a central freight service for an alliance.
-- [Erik Kalkoken / aa-dashboard-alerts](https://gitlab.com/ErikKalkoken/aa-dashboard-alerts) - Adds an alert message to the dashboard to notify users about their current open items like pending group requests and unread notifications.
 - [Erik Kalkoken / aa-killtracker](https://gitlab.com/ErikKalkoken/aa-killtracker) - An app for running killmail trackers with Alliance Auth and Discord
 - [Erik Kalkoken / aa-memberaudit](https://gitlab.com/ErikKalkoken/aa-memberaudit) - An app that provides full access to Eve characters and related reports for auditing, vetting and monitoring.
   - [Eclipse Expeditions / aa-memberaudit-securegroups](https://gitlab.com/eclipse-expeditions/aa-memberaudit-securegroups) - Integration with [Secure Groups](https://github.com/pvyParts/allianceauth-secure-groups) for automatic group management based on activity, character age, assets, compliance, SP, or skill sets.
@@ -60,8 +60,9 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [MillerUK/ AllianceAuth-Docker-Image](https://hub.docker.com/r/milleruk/allianceauth) - Docker image for AllianceAuth
 - [mckernanin / Alliance Auth Kubernetes](https://github.com/mckernanin/alliance-auth-kubernetes) - Tutorial on setting up AA on a kubernetes cluster
 
-## Development
+## Development and Infrastructure
 
 - [Erik Kalkoken / allianceauth-app-utils](https://gitlab.com/ErikKalkoken/allianceauth-app-utils) - Utility functions and classes for rapid development of Alliance Auth apps
 - [Erik Kalkoken / allianceauth-example-plugin](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin) - Example plugin app that can be used as starting point / template for developing new plugin apps
+- [Erik Kalkoken / discordproxy](https://gitlab.com/ErikKalkoken/discordproxy) - Proxy server for accessing the Discord API via gRPC
 - [Erik Kalkoken / django-eveuniverse](https://gitlab.com/ErikKalkoken/django-eveuniverse) - Complete set of Eve Online Universe models for Django with on-demand loading from ESI
