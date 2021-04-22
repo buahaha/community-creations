@@ -21,6 +21,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-killtracker](https://gitlab.com/ErikKalkoken/aa-killtracker) - An app for running killmail trackers with Alliance Auth and Discord
 - [Erik Kalkoken / aa-memberaudit](https://gitlab.com/ErikKalkoken/aa-memberaudit) - An app that provides full access to Eve characters and related reports for auditing, vetting and monitoring.
   - [Eclipse Expeditions / aa-memberaudit-securegroups](https://gitlab.com/eclipse-expeditions/aa-memberaudit-securegroups) - Integration with [Secure Groups](https://github.com/pvyParts/allianceauth-secure-groups) for automatic group management based on activity, character age, assets, compliance, SP, or skill sets.
+- [Erik Kalkoken / aa-moonmining](https://gitlab.com/ErikKalkoken/aa-moonmining) - App for tracking moon extractions and scouting new moons.
 - [Erik Kalkoken / aa-package-monitor](https://gitlab.com/ErikKalkoken/aa-package-monitor) - An app that helps keep track of installed packages and outstanding updates for Alliance Auth.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
 - [Erik Kalkoken / aa-structuretimers](https://gitlab.com/ErikKalkoken/aa-structuretimers) - An app for keeping track of Eve Online structure timers with Alliance Auth and Discord
