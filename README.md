@@ -20,7 +20,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [Erik Kalkoken / aa-freight](https://gitlab.com/ErikKalkoken/aa-freight.git) - A plugin for running a central freight service for an alliance.
 - [Erik Kalkoken / aa-killtracker](https://gitlab.com/ErikKalkoken/aa-killtracker) - An app for running killmail trackers with Alliance Auth and Discord
 - [Erik Kalkoken / aa-memberaudit](https://gitlab.com/ErikKalkoken/aa-memberaudit) - An app that provides full access to Eve characters and related reports for auditing, vetting and monitoring.
-  - [Eclipse Expeditions / aa-memberaudit-securegroups](https://gitlab.com/eclipse-expeditions/aa-memberaudit-securegroups) - Integration with [Secure Groups](https://github.com/pvyParts/allianceauth-secure-groups) for automatic group management based on activity, character age, assets, compliance, SP, or skill sets.
+  - [Eclipse Expeditions / aa-memberaudit-securegroups](https://gitlab.com/eclipse-expeditions/aa-memberaudit-securegroups) - Integration with [Secure Groups](https://github.com/Solar-Helix-Independent-Transport/allianceauth-secure-groups) for automatic group management based on activity, character age, assets, compliance, SP, or skill sets.
 - [Erik Kalkoken / aa-moonmining](https://gitlab.com/ErikKalkoken/aa-moonmining) - App for tracking moon extractions and scouting new moons.
 - [Erik Kalkoken / aa-package-monitor](https://gitlab.com/ErikKalkoken/aa-package-monitor) - An app that helps keep track of installed packages and outstanding updates for Alliance Auth.
 - [Erik Kalkoken / aa-standingssync](https://gitlab.com/ErikKalkoken/aa-standingssync.git) - Enables non-alliance characters like scout alts to have the same standings view in game as their alliance main
@@ -30,9 +30,10 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / allianceauth-signal-pings](https://github.com/pvyParts/allianceauth-signal-pings) - A simple plugin to send a "signal" to a discord webhook when a user does something in auth.
 - [AaronKable / allianceauth-group-assigner](https://github.com/pvyParts/allianceauth-group-assigner) - Admin app to add groups to users when they change States.
 - [AaronKable / aa-discordbot](https://github.com/pvyParts/allianceauth-discordbot) - Discordbot for AllianceAuth that can interact with the Django project, send Channel and Direct Messages and be extended upon by other Community Apps
-- [AaronKable / allianceauth-secure-groups](https://github.com/pvyParts/allianceauth-secure-groups) - Groups with required or automatic filters, Supports apps for Skills, Item, Activity or any checks you can think of making.
+- [AaronKable / allianceauth-secure-groups](https://github.com/Solar-Helix-Independent-Transport/allianceauth-secure-groups) - Groups with required or automatic filters, Supports apps for Skills, Item, Activity or any checks you can think of making.
 - [AaronKable / allianceauth-corp-tools](https://github.com/pvyParts/allianceauth-corp-tools) - A minimalistic character/corporation audit, primarily built to underpin allianceauth-secure-groups and other apps.
 - [AaronKable / aa-statistics](https://github.com/pvyParts/aa-statistics) - Periodically gather and update statistics, primarily for use by other modules
+- [AaronKable / allianceauth-blacklist](https://github.com/Solar-Helix-Independent-Transport/allianceauth-blacklist) - Integration with Alliance Auth's State System, creates an maintains a Blacklisted State to ensure no services access is granted to Blacklisted users
 - [ppfeufer / aa-esi-status](https://github.com/ppfeufer/aa-esi-status) - App for Alliance Auth to show the current status of ESI and its end points.
 - [ppfeufer / aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings) - App that can format your fleet pings and also ping for you to Discord and Slack.
 - [ppfeufer / aa-sov-timer](https://github.com/ppfeufer/aa-sov-timer) - Sovereignty campaign overview for Alliance Auth.
@@ -56,7 +57,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 
 ## Deployment and Administration
 
-- [AaronKable / AllianceAuth-Celery-Analytics](https://github.com/pvyParts/allianceauth-celeryanalytics) - Celery task output logging to database for easy viewing and monitoring
+- [AaronKable / AllianceAuth-Celery-Analytics](https://github.com/Solar-Helix-Independent-Transport/allianceauth-celeryanalytics) - Celery task output logging to database for easy viewing and monitoring
 - [MillerUK / AllianceAuth-Docker](https://github.com/milleruk/alliance_auth_docker) -  Docker-Compose Stack - Including Traefik Proxy
 - [MillerUK/ AllianceAuth-Docker-Image](https://hub.docker.com/r/milleruk/allianceauth) - Docker image for AllianceAuth
 - [mckernanin / Alliance Auth Kubernetes](https://github.com/mckernanin/alliance-auth-kubernetes) - Tutorial on setting up AA on a kubernetes cluster
