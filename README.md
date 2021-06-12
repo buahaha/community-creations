@@ -51,7 +51,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 ## Services
 
 - [Alliance Auth / mumble-authenticator](https://gitlab.com/allianceauth/mumble-authenticator) - Authenticator script for the Alliance Auth Mumble integration
-- [AaronKable / allianceauth-mumbletemps](https://github.com/pvyParts/allianceauth-mumble-temp) - Enables Templink access to Mumble for non authed characters
+- [AaronKable / allianceauth-mumbletemps](https://github.com/Solar-Helix-Independent-Transport/allianceauth-mumble-temp) - Enables Templink access to Mumble for non authed characters
 - [AaronKable / allianceauth-wiki-js](https://github.com/pvyParts/allianceauth-wiki-js) - Allianceauth service module for Wiki.js
 
 ## Deployment and Administration
