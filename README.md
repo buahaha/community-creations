@@ -36,6 +36,7 @@ A directory of community sourced plugins, tools, resources, etc. for Alliance Au
 - [AaronKable / Mumble-tagger](https://github.com/pvyParts/allianceauth-mumble-tagger) - This is a simple plugin for Alliance Auth to append a "Tag" too the end of a display name on mumble depending on a users group association.
 - [ppfeufer / aa-esi-status](https://github.com/ppfeufer/aa-esi-status) - App for Alliance Auth to show the current status of ESI and its end points.
 - [ppfeufer / aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings) - App that can format your fleet pings and also ping for you to Discord and Slack.
+- [ppfeufer / aa-forum](https://github.com/ppfeufer/aa-forum) - Simple integrated forum for Alliance Auth
 - [ppfeufer / aa-sov-timer](https://github.com/ppfeufer/aa-sov-timer) - Sovereignty campaign overview for Alliance Auth.
 - [ppfeufer / aa-srp](https://github.com/ppfeufer/aa-srp) - Improved SRP module
 - [ppfeufer / aa-timezones](https://github.com/ppfeufer/aa-timezones) - Displaying different time zones within Alliance Auth.
